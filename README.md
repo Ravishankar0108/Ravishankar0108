@@ -1,17 +1,17 @@
 # Hi, I'm Ravi Shankar Shukla 👋
 
-🎯 Aspiring Backend Developer from Bhopal, Madhya Pradesh  
-💻 Passionate about system design, APIs, databases & embedded systems  
-📚 Currently exploring Node.js, PostgreSQL, Spring Boot & Cloud Architecture  
-🤖 Also into Robotics, IoT & AI Agents  
+🎯 Aspiring Backend Developer from Bhopal, Madhya Pradesh
+💻 Passionate about system design, APIs, databases & embedded systems
+📚 Currently exploring Node.js, PostgreSQL, Spring Boot & Cloud Architecture
+🤖 Also into Robotics, IoT & AI Agents
 
 ---
 
 ## 🔧 Tech Stack
 
-**Languages:** `Java` `Python` `C/C++` `JavaScript`  
-**Backend:** `Node.js` `Spring Boot` `REST APIs` `GraphQL`  
-**Databases:** `PostgreSQL` `MongoDB` `Redis`  
+**Languages:** `Java` `Python` `C/C++` `JavaScript`
+**Backend:** `Node.js` `Spring Boot` `REST APIs` `GraphQL`
+**Databases:** `PostgreSQL` `MongoDB` `Redis`
 **Others:** `Arduino` `IoT` `Embedded Systems` `JWT` `Docker`
 
 ---
