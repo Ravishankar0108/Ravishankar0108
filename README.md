@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ravi Shankar Shukla 👋
 
-<!--
-**Ravishankar0108/Ravishankar0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Backend Developer from Madhya Pradesh, India
+💻 Passionate about system design, APIs, and databases
+📚 Currently exploring Node.js, PostgreSQL, and cloud architecture
 
-Here are some ideas to get you started:
+## 🔧 Skills
+`JavaScript` `Node.js` `PostgreSQL` `MongoDB` `REST APIs` `GraphQL` `Redis`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Work
+- 🖥️ [Backend Internship Assignment](https://github.com/Ravishankar0108/backend-internship-assignments) — System design, JWT, Caching, Microservices
+
+## 📬 Reach Me
+📧 ravishankar9962@gmail.com
