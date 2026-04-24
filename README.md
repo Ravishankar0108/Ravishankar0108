@@ -15,14 +15,13 @@
 **Others:** `Arduino` `IoT` `Embedded Systems` `JWT` `Docker`
 
 ---
-
 ## 📌 Featured Projects
 
 | Project | Description |
 |---------|-------------|
+| 🖥️ [Student Management Data](https://student-management-api-7yew.onrender.com/) | System Design with strong backend skills using Java 17 |
 | 🖥️ [Backend Internship Assignment](https://github.com/Ravishankar0108/backend-internship-assignments) | System design, JWT Auth, Caching, Microservices, GraphQL |
 | 🤖 [Voice AI Agent](https://github.com/Ravishankar0108/voice-ai-agent) | AI-powered voice agent built with Python |
-
 
 ---
 
