@@ -1,5 +1,4 @@
 # Hi, I'm Ravi Shankar Shukla 👋
-
 🎯 Aspiring Backend Developer from Bhopal, Madhya Pradesh
 💻 Passionate about system design, APIs, databases & embedded systems
 📚 Currently exploring Node.js, PostgreSQL, Spring Boot & Cloud Architecture
@@ -15,13 +14,15 @@
 **Others:** `Arduino` `IoT` `Embedded Systems` `JWT` `Docker`
 
 ---
+
 ## 📌 Featured Projects
 
 | Project | Description |
 |---------|-------------|
 | 🖥️ [Student Management Data](https://student-management-api-7yew.onrender.com/) | System Design with strong backend skills using Java 17 |
 | 🖥️ [Backend Internship Assignment](https://github.com/Ravishankar0108/backend-internship-assignments) | System design, JWT Auth, Caching, Microservices, GraphQL |
-| 🤖 [Voice AI Agent](https://github.com/Ravishankar0108/voice-ai-agent) | AI-powered voice agent built with Python |
+| 🤖 [Voice AI Agent](https://ravi-ai-assistant.streamlit.app/) | AI-powered voice agent built with Python — [Live Demo](https://ravi-ai-assistant.streamlit.app/) |
+| 📍 [LivGuard](https://liv-guard.vercel.app) | Real-time family location sharing app — React, Node.js & MongoDB — [Live Demo](https://liv-guard.vercel.app) |
 
 ---
 
